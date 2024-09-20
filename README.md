@@ -59,7 +59,7 @@ Projeto Java Spring + PostgreSQL + MongoDB
 
 # Ulisses Moraes Dos Reis Souza
 
-Analista de sistemas há 27 anos, Sr em Tecnologias voltadas para MAINFRAME.
+Analista de sistemas há 27 anos no setor bancário.
 
 ## Meus Contatos:
 
